@@ -16,7 +16,7 @@ public class FragmentTwo2 extends Fragment implements DataCall{
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 
 
-        View inflate = inflater.inflate(R.layout.fragmenttwo2, container, false);
+           View inflate = inflater.inflate(R.layout.fragmenttwo2, container, false);
 
 
         return inflate;
